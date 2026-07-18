@@ -14,6 +14,26 @@ Fashion was chosen as the initial domain due to my interest in the industry and 
 * 🏛️ History & Archives
 * 🪡 Craftsmanship
 ---
+# Workflow
+1. Homepage
+↓
+2. Clarification
+↓
+3. Planning & Processing
+↓
+4. Research Results
+↓
+5. Generate Report
+↓
+6. Follow-up Conversation
+↓
+7. Export
+↓
+8. History
+↓
+9. Reopen & Continue
+
+---
 ## Available Research Outputs
 Users can generate different types of reports depending on their needs:
 * 📚 Literature Review
@@ -33,3 +53,16 @@ Each generated report may include:
 * Confidence Assessment
 * Suggested Follow-up Questions
 ---
+##Tech Stack
+* Figma
+* Claude API
+* Python
+* Canva
+* GitHub
+* React
+## Roadmap 
+* [x] Research agent
+* [x] Clarification questions
+* [] STF
+* [] Preference Optimization
+* [] Collections
