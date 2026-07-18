@@ -59,7 +59,6 @@ Each generated report may include:
 * Python
 * Canva
 * GitHub
-* React
   ---
 ## Roadmap 
 * [x] Research agent
