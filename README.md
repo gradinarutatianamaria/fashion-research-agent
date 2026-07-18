@@ -16,20 +16,20 @@ Fashion was chosen as the initial domain due to my interest in the industry and 
 ---
 ## Available Research Outputs
 Users can generate different types of reports depending on their needs:
-📚 Literature Review
-📄 Executive Summary
-📊 SWOT Analysis
-🎤 Presentation Outline
-📈 Marketing Report
-🌱 Sustainability Report
+* 📚 Literature Review
+* 📄 Executive Summary
+* 📊 SWOT Analysis
+* 🎤 Presentation Outline
+* 📈 Marketing Report
+* 🌱 Sustainability Report
 ---
 ## Report Structure
 Each generated report may include:
-Executive Summary
-Key Findings
-Timeline
-Charts and Visualizations (when applicable)
-Sources and References
-Confidence Assessment
-Suggested Follow-up Questions
+* Executive Summary
+* Key Findings
+* Timeline
+* Charts and Visualizations (when applicable)
+* Sources and References
+* Confidence Assessment
+* Suggested Follow-up Questions
 ---
