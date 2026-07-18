@@ -7,12 +7,12 @@ Although the current implementation focuses on the fashion industry, the platfor
 Fashion was chosen as the initial domain due to my interest in the industry and the growing integration of artificial intelligence, data, and digital technologies within fashion.
 ---
 ## Research Areas
-|👗 Fashion Design |
-📈 Marketing & Branding
-💻 Fashion Technology
-🌱 Sustainability
-🏛️ History & Archives
-🪡 Craftsmanship
+* 👗 Fashion Design
+* 📈 Marketing & Branding
+* 💻 Fashion Technology
+* 🌱 Sustainability
+* 🏛️ History & Archives
+* 🪡 Craftsmanship
 ---
 ## Available Research Outputs
 Users can generate different types of reports depending on their needs:
