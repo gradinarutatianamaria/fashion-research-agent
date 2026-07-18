@@ -59,7 +59,7 @@ Each generated report may include:
 * Python
 * Canva
 * GitHub
-  ---
+---
 ## Roadmap 
 * [x] Research agent
 * [x] Clarification questions
