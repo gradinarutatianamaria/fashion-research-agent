@@ -1,1 +1,34 @@
-# fashion-research-agent
+# Fashion Research Agent 👠👗👝
+>AI-powereed research platform for the fashion industry.
+---
+## Overview
+Fashion Research Agent is an AI-powered research platform designed for fashion professionals, researchers, students, and marketers. It streamlines the research process through agentic workflows, intelligent clarification questions, structured report generation, organized conversation history, and a luxury-inspired user experience.
+Although the current implementation focuses on the fashion industry, the platform is designed with a modular architecture that can be adapted to other domains such as public administration, finance, healthcare, biology, and law.
+Fashion was chosen as the initial domain due to my interest in the industry and the growing integration of artificial intelligence, data, and digital technologies within fashion.
+---
+## Research Areas
+|👗 Fashion Design |
+📈 Marketing & Branding
+💻 Fashion Technology
+🌱 Sustainability
+🏛️ History & Archives
+🪡 Craftsmanship
+---
+## Available Research Outputs
+Users can generate different types of reports depending on their needs:
+📚 Literature Review
+📄 Executive Summary
+📊 SWOT Analysis
+🎤 Presentation Outline
+📈 Marketing Report
+🌱 Sustainability Report
+---
+## Report Structure
+Each generated report may include:
+Executive Summary
+Key Findings
+Timeline
+Charts and Visualizations (when applicable)
+Sources and References
+Confidence Assessment
+Suggested Follow-up Questions
