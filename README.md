@@ -53,16 +53,18 @@ Each generated report may include:
 * Confidence Assessment
 * Suggested Follow-up Questions
 ---
-##Tech Stack
+## Tech Stack
 * Figma
 * Claude API
 * Python
 * Canva
 * GitHub
 * React
+  ---
 ## Roadmap 
 * [x] Research agent
 * [x] Clarification questions
 * [] STF
 * [] Preference Optimization
 * [] Collections
+---
